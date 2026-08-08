@@ -4,7 +4,7 @@ MSc Statistics dissertation (University of Kerala) analyzing the growth of UPI (
 
 This repository contains the R code for both halves of the dissertation:
 - **Secondary data analysis** — national UPI transaction trends, seasonality, fraud statistics, hypothesis testing, and time-series forecasting
-- **Primary survey analysis** — a 220-respondent survey on digital payment fraud awareness and security behaviour
+- **Primary survey analysis** — a 275-respondent survey on digital payment fraud awareness and security behaviour
 
 ## Overview
 
